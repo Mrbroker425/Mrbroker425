@@ -68,5 +68,14 @@
   </div>
 
 
+  <div align="center" style="flex: 1 1 48%; margin: 1%; text-align: center;">
+    <h2>GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=mrbroker425" alt="GitHub Trophies">
+  </div>
+
+  <!-- Add more features as needed -->
+
+
 </div>
+
 
