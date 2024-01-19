@@ -4,9 +4,21 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="https://twitter.com/mrbroker077" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrbroker077&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://twitter.com/mrbroker077">
+    <img src="https://img.shields.io/twitter/follow/mrbroker077?style=social" alt="Twitter Follow">
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/mrbroker077" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="https://twitter.com/mrbroker077"  </p>
+
+<p align="left">
+  <a href="https://twitter.com/mrbroker077" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mrbroker077?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -20,10 +32,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrbroker077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+  <a href="https://twitter.com/mrbroker077" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrbroker077" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mr-broker/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-broker" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rishav_chanda" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCHhYnMvbmK56G2Ehg0pNu6A" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+  </a>
 </p>
 
 
