@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/mr-broker/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-broker" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rishav_chanda" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/UCHhYnMvbmK56G2Ehg0pNu6A" target="blank">
